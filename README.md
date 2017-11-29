@@ -1,6 +1,12 @@
 # Node.js Loginapp
 
+Prerequisites:
+## Install :
+### NodeJS
+### Mongo DB
+
+
 To run this app locally,
-do the following:
+run the following command:
 
 ## node app
